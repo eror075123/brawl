@@ -1,0 +1,305 @@
+header {
+  background:black;
+  display:flex;
+  align-items:center;
+  width: 1500px;
+  height: 80px;
+  position: sticky;
+  top:10px;
+}
+.logo {
+  height:50px;  
+}
+.header-link {
+ text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 140%;
+    text-decoration: none;
+  color: #FFF;
+ padding:50px;
+ text-shadow: 10px 10px 10px white;
+   
+}
+.header-link:hover{
+ text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 140%;
+    text-decoration: none;
+  color:black;
+ padding:50px;
+   background-color: white;
+   border-radius: 50%;
+    text-shadow: 10px 10px 10px black;
+}
+
+.container1-img {
+  display:flex;
+ padding-top:30px;
+  height:600px;
+  width:2000px;
+  
+
+}
+.container2-img {
+  display:flex;
+ height:700px;
+  width:2000x;
+  padding-top:30px; 
+}
+.Shoudawn {
+display: flex;
+text-align: center;
+justify-content: center;
+margin-top: 70px;
+ 
+
+}
+.three  {
+   padding-left:50px;
+  font-family:lithograph;
+}
+
+.button-apple {
+  background-color:black;
+ font-family: JESTER;
+ display: flex;
+ justify-content: space-around;
+ width: 130px;
+ height: 45px;
+ border-radius: 10px;
+margin-left: 50px;
+margin-top: 30px;
+color:white;
+}
+
+.button-apple:hover {
+  background-color:white;
+ font-family: JESTER;
+ display: flex;
+ justify-content: space-around;
+ width: 130px;
+ height: 45px;
+ border-radius: 10px;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+
+.button-logo {
+  width: 40px;
+}
+ 
+
+ button a {
+   text-decoration: none;
+   color:white;
+ }
+
+ button a:hover {
+   text-decoration: none;
+   color:black;
+ }
+
+ 
+
+ 
+
+ .button-google {
+   background-color:black;
+ font-family: JESTER;
+ display: flex;
+ justify-content: space-around;
+ width: 150px;
+ height: 45px;
+ border-radius: 10px;
+margin-left: 50px;
+margin-top: 30px;
+ }
+ 
+ .button-google:hover{
+   background-color:white;
+ font-family: JESTER;
+ display: flex;
+ justify-content: space-around;
+ width: 150px;
+ height: 45px;
+ border-radius: 10px;
+margin-left: 50px;
+margin-top: 30px;
+ }
+ 
+
+.button-logo-google {
+  width: 55px;
+}
+
+
+.container3 {
+  width: 1000px;
+  height: 500px;
+  margin-top: 50px;
+
+
+  
+ }
+ .button-apple-google {
+   display: flex;
+ }
+
+ .news {
+   background-color:#1FCECB;
+   width: 100px;
+   height: 35px;
+   border-radius: 10px;
+   color: white;
+   margin-left: 40px;
+   margin-top: 30px;
+   font-family: bart;
+ }
+
+ .container3 {
+    width:1150px;
+    height: 500px;
+  
+ }
+
+  .container3-img {
+    display: flex  ;
+    width:150px;
+    height: 300px;
+  }
+   .container3-img:hover {
+    display: flex ;
+    width:200px;
+    height: 350px;
+  
+  }
+   
+  footer {
+    height: 500px;
+    background-color:black;
+    margin-top: 50px;
+
+  }
+
+  .container3-img1 {
+    margin-right: 40px;
+  }
+   .container3-img:hover {
+    
+    width:200px;
+    height: 350px;
+  
+  }
+
+  .container3 h1 {
+  align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+  }
+  .container3-h3 {
+ margin-left: 200px;
+ color:#EF98AA;
+ display: flex;
+ 
+  }
+
+  .h3-c3 {
+    margin-left:450px;
+}
+  
+  .h2-c3-h2 {
+   text-align: right;
+   position: relative;
+   bottom:80px;
+   right: 110px;
+      
+  }
+  
+  .h2-bs {
+    position: relative;
+    bottom: 30px;
+    left: 100px;
+  }
+  .logo-2 {
+    height: 75px;
+   position: relative;
+   left:900px;
+   bottom: 70px;
+  }
+
+.logo3 {
+    width: 80px;
+    height: 60px;
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+  }
+  .logo3:hover {
+    width: 80px;
+    height: 60px;
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+    box-shadow: 10px 10px 10px white;
+  }
+
+  .logo4 {
+    width: 70px;
+    height: 50px;
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+  }
+    .logo4:hover {
+    width: 80px;
+    height: 60px;
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+    box-shadow: 10px 10px 10px white;
+  }
+
+
+    .logo5 {
+    width: 70px;
+    height: 50px;
+    position: relative;
+    left: 520px;
+    bottom: 370px;
+  }
+    .logo5:hover {
+    width: 80px;
+    height: 60px;
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+    box-shadow: 10px 10px 10px white;
+  }
+
+ footer p {
+   color: white;
+     position: relative;
+    left: 580px;
+    bottom: 370px;
+    font-family: Arial, Helvetica, sans-serif;
+ } 
+
+     .logo6 {
+    width: 70px;
+    height: 50px;
+    position: relative;
+    left: 520px;
+    bottom: 370px;
+    background-color: black;
+  }
+.p-f {
+      
+      color: white;
+      bottom: 70px;
+      left: 40px;
+    }
